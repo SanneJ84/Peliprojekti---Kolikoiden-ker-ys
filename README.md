@@ -1,3 +1,5 @@
-# Peliprojekti-Kolikoiden keräys
+# Python peliprojekti
+
+## Python peliprojekti jossa robotilla kerätään kolikoita, väistellen hirviöitä.  
 
 
