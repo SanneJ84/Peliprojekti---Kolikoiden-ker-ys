@@ -1,3 +1,3 @@
-# Peliprojekti-Hirviöpeli
+# Peliprojekti-Kolikoiden keräys
 
 
